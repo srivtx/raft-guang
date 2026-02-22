@@ -1,4 +1,4 @@
-# mini raft
+# raft-guang
 
 a really minimal implementation of leader election using the raft consensus algorithm in python. 
 mostly built for learning purposes, so it's stripped down to just the basics.
